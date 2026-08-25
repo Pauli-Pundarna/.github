@@ -17,7 +17,7 @@ Denna grupp bildades mellan tre nära vänner under tredje året av deras gymnas
 ## Vårat arbete
 ... [**...!**](https://github.com/kloudv).
 
-## LPRx 
+## VoiceMod 
 *The image is currently only a placeholder until public releases of the product are pushed out.*
 |![NatineScript logo](https://raw.githubusercontent.com/Glassrocket/valor-assets/main/nativescript-logo.png) | [**Voice Changer**](https://valor-software.com/blog/Debugging_NgRx_in_NativeScript_with_Redux_DevTools)|
 |--|--|
