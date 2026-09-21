@@ -19,7 +19,7 @@ Denna grupp bildades mellan tre nära vänner under tredje året av deras gymnas
 
 ## ELF 
 *The image is currently only a placeholder until public releases of the product are pushed out.*
-|![NatineScript logo](https://raw.githubusercontent.com/Glassrocket/valor-assets/main/nativescript-logo.png) | [**Voice Changer**](https://valor-software.com/blog/Debugging_NgRx_in_NativeScript_with_Redux_DevTools)|
+|![NatineScript logo](https://raw.githubusercontent.com/Glassrocket/valor-assets/main/nativescript-logo.png) | [**ELF Voice Changer**](https://valor-software.com/blog/Debugging_NgRx_in_NativeScript_with_Redux_DevTools)|
 |--|--|
 
 **ELF**, våran skräddarsydda röstförvrängnings applikation för all typ av användning. Spel, röstkommunikation, roliga stunder.
