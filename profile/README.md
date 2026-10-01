@@ -14,12 +14,12 @@ Denna grupp bildades mellan tre nära vänner under tredje året av deras gymnas
 ...
 
 
-## Vårat arbete
-...
+## 📂 Vårat arbete
+Vårat gymnasiearbete är en röstförvrängare, mer känt som en voice changer. Dens syfte är att ändra din röst i realtid för att imitera eller efterlikna specifika tillstånd. Exempel på detta är en ljusare röst eller mörkare röst.
 
-## ELF 
-*The image is currently only a placeholder until public releases of the product are pushed out.*
-|![NatineScript logo](https://raw.githubusercontent.com/Glassrocket/valor-assets/main/nativescript-logo.png) | [**ELF Voice Changer**](https://valor-software.com/blog/Debugging_NgRx_in_NativeScript_with_Redux_DevTools)|
+## ELF
+*Produktbild är för tillfället inte tillgängligt. Vi arbetar på detta!.*
+|❔| [**ELF Voice Changer**](https://pauli-pundarna.github.io/Website/)|
 |--|--|
 
 **ELF**, våran skräddarsydda röstförvrängnings applikation för all typ av användning. Spel, röstkommunikation, roliga stunder.
